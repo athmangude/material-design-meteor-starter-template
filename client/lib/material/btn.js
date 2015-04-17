@@ -1,4 +1,4 @@
 // btn waves
-	Waves.displayEffect({
-		duration: 900
-	});
+	//Waves.displayEffect({
+	//	duration: 900
+	//});
